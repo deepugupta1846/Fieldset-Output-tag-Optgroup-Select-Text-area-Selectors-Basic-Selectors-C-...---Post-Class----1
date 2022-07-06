@@ -25,6 +25,10 @@
     grid-column: span 1 / span 2;
     
 }
+.left-content{
+    
+    color: aliceblue;
+}
 
 section{
     display: block;
